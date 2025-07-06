@@ -1,4 +1,4 @@
-# Music Store Data Analysis Project using SQL
+# Data Analysis Project using SQL
 
 **Objective**
 
