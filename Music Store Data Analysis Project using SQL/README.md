@@ -20,18 +20,18 @@ Key Analysis Areas:
 - Invoice-based revenue patterns.
 
 👨‍💼 Employee Performance:
-Sales support agents and their associated customers.
-Customers managed per employee.
+- Sales support agents and their associated customers.
+- Customers managed per employee.
 
 🎤 Artist & Album Insights:
-Top artists by sales.
-Best-selling albums and tracks.
-Genre popularity.
+- Top artists by sales.
+- Best-selling albums and tracks.
+- Genre popularity.
 
 🎶 Track Analysis:
-Most popular genres by number of tracks and sales.
-Average price per genre.
-Track sales volume and revenue.
+- Most popular genres by number of tracks and sales.
+- Average price per genre.
+- Track sales volume and revenue.
 
 **Tools & Technologies:
 
