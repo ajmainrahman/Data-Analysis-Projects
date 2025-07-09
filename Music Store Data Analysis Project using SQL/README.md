@@ -4,8 +4,8 @@
 Analyze the operations of a digital music store using SQL to derive insights about customers, sales, employees, and artists.
 
 **Dataset:**
-Sample SQLite database of a digital music store.
-Tables include: customers, invoices, invoice_items, employees, tracks, albums, artists, genres, and media_types.
+- Sample SQLite database of a digital music store.
+- Tables include: customers, invoices, invoice_items, employees, tracks, albums, artists, genres, and media_types.
 
 Key Analysis Areas:
 
