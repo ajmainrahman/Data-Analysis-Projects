@@ -1,7 +1,46 @@
 # 🎵Music Store Data Analysis Project using SQL (END-to-END)
 
-**Objective**
-How to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth.
+**Project Objective**
+Analyze the operations of a digital music store using SQL to derive insights about customers, sales, employees, and artists.
+
+**Dataset:**
+Sample SQLite database of a digital music store.
+Tables include: customers, invoices, invoice_items, employees, tracks, albums, artists, genres, and media_types.
+
+Key Analysis Areas:
+
+📈 Customer Behavior:
+- Top countries by revenue.
+- Customer lifetime value.
+- Customer count by country.
+
+💰 Sales & Revenue:
+- Monthly revenue trends.
+- Top billing countries.
+- Invoice-based revenue patterns.
+
+👨‍💼 Employee Performance:
+Sales support agents and their associated customers.
+Customers managed per employee.
+
+🎤 Artist & Album Insights:
+Top artists by sales.
+Best-selling albums and tracks.
+Genre popularity.
+
+🎶 Track Analysis:
+Most popular genres by number of tracks and sales.
+Average price per genre.
+Track sales volume and revenue.
+
+**Tools & Technologies:
+
+SQL (SQLite)
+SQL queries written in .sql files, using GROUP BY, JOIN, ORDER BY, LIMIT, subqueries, etc.
+
+**Project Outcome:**
+- Developed 20+ insightful SQL queries to explore key performance indicators of the music business.
+- Showcased how SQL can drive data-driven decisions in digital music retailing.
 
 **Questions - Easy**
 
