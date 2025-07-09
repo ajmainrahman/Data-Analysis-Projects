@@ -33,10 +33,9 @@ Key Analysis Areas:
 - Average price per genre.
 - Track sales volume and revenue.
 
-**Tools & Technologies:
-
-SQL (SQLite)
-SQL queries written in .sql files, using GROUP BY, JOIN, ORDER BY, LIMIT, subqueries, etc.
+**Tools & Technologies:**
+- SQL (SQLite)
+- SQL queries written in .sql files, using GROUP BY, JOIN, ORDER BY, LIMIT, subqueries, etc.
 
 **Project Outcome:**
 - Developed 20+ insightful SQL queries to explore key performance indicators of the music business.
