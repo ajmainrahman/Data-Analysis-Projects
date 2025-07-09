@@ -40,6 +40,12 @@ Analyze the operations of a digital music store using SQL to derive insights abo
 **Project Outcome:**
 - Developed 20+ insightful SQL queries to explore key performance indicators of the music business.
 - Showcased how SQL can drive data-driven decisions in digital music retailing.
+- Developed a relational data analysis system using SQL to uncover customer behavior, sales trends, and artist performance across 11 structured tables.
+- Implemented over 20 advanced SQL queries involving JOIN, GROUP BY, and subqueries to extract business insights from 10,000+ records.
+- Analyzed monthly revenue trends and customer lifetime value, identifying top 5 countries contributing to 75% of store revenue.
+- Processed customer engagement and sales data to assign account representatives and evaluate employee performance across multiple regions.
+- Derived key performance metrics such as top-selling genres, best-performing artists, and average genre pricing, optimizing music inventory and promotional targeting.
+- Generated actionable insights from invoice, track, and album data, enabling strategic decisions for marketing and operations.
 
 **Questions - Easy**
 
